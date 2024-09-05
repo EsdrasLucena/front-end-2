@@ -1,0 +1,11 @@
+div*5 : cria automaticamente 5 divs
+.relogio: cria uma div chamada relogio
+
+
+link: linka o arquivo css, coloca . e o nome do arquivo (indicando o direotorio)
+fui no google fonts e peguei um import e uma fonte boa
+
+nunca colocar valor chumbado.
+
+alt shift seta pra baixo replica a linha do código
+seleciona uma palavra e fica dando ctrl D ele seleciona todas aqeulas palavras do codigo
